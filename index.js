@@ -4,6 +4,5 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  let name = "Ruby"
   return `Happy holidays, ${name}!`
 }
